@@ -77,4 +77,4 @@
 
 - Argo Events and Workflows are not currently supported in this release. The plan is to re-incorporate them back into KAOPS upon customer request.
 - Nethopper Alerts removed and will be replaced by Grafana Alerts in 6.2
-- Cluster kubectl terminal remove and will be replaced by Kubernetes Dashboard in 6.2
+- Cluster kubectl terminal removed and will be replaced by Kubernetes Dashboard in 6.2
